@@ -1,6 +1,6 @@
 node_modules/
 venv/
-backend/.env
+# backend/.env  <-- Un-commented to allow committing
 .env
 __pycache__/
 *.pyc
